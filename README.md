@@ -240,4 +240,4 @@ This repository serves as the official landing page for Heroes of Might and Magi
 **Get the most recent version of Heroes of Might and Magic V today!**
 
 ---
-**Last updated:** 2026-11-07 09:45:32 UTC
+**Last updated:** 2026-11-07 16:10:46 UTC
